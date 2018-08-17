@@ -1,0 +1,2 @@
+# udacitysunshine
+将原先设置部分的功能代码修改成弹出自定义对话框的形式，美化了界面，同时相应的功能代码使用DialogFragment实现。(原先设置部分使用继承OnSharedPreferenceChangeListener的方式)
